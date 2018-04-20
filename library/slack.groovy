@@ -1,8 +1,3 @@
-// src/org/foo/Zot.groovy
-package org.foo;
-
-def echoHello() {
+call() {
   sh 'echo Hello'
 }
-
-return this

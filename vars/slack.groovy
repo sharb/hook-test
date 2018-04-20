@@ -1,3 +1,3 @@
 call() {
-  sh 'echo Hello'
+  echo 'hello'
 }

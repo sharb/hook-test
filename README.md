@@ -1,2 +1,2 @@
 # hook-test
- tes
+ test
